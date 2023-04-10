@@ -1,5 +1,5 @@
 
-## Hi, <img src="https://github.com/NavyanthReddy/Overview/blob/main/Hi.gif" width="30px" height="30px"> I am Navyanth Reddy !
+## Hi, <img src="https://github.com/msrcharan/Overview/blob/main/Hi.gif" width="30px" height="30px"> I am Navyanth Reddy !
 <br>
 
  <p>
