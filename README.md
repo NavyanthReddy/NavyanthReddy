@@ -25,7 +25,7 @@
 
 <p>
   <em>
-    Hello, I am Navyanth Reddy an <b> undergraduate student </b> from <a target="blank" href="https://www.srmist.edu.in/"> <b>SRM University</b>, Chennai</a>. <br>
+    Hello, I am Navyanth Reddy an <b> undergraduate student </b> from <a target="blank" href="https://www.srmist.edu.in/"> <b>SRM Institue of Science and Technology</b>, Chennai</a>. <br>
     <b>a passionate self-learner</b> &nbsp; I am a <b>full stack developer</b> who likes to develop several exciting applications and I'm constantly exploring new technologies and tools to improve my craft. &nbsp; I am interested in the field of <b>Data Science</b>. I worked in many deep learning and computer vision projects in the medical field to analyse the anomalies.
 </p>
  
