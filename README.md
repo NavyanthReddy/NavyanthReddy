@@ -25,9 +25,11 @@
 
 <p>
   <em>
-    Hello, I am Navyanth Reddy an <b> undergraduate student </b> from <a target="blank" href="https://www.srmist.edu.in/"> <b>SRM Institue of Science and Technology</b>, Chennai</a>. <br>
-    <b>a passionate self-learner</b> &nbsp; I am a <b>full stack developer</b> who likes to develop several exciting applications and I'm constantly exploring new technologies and tools to improve my craft. &nbsp; I am interested in the field of <b>Data Science</b>. I worked in many deep learning and computer vision projects in the medical field to analyse the anomalies.
+    Hello, I am <b>Navyanth Kumar Reddy</b>, a driven <b>Master’s in Computer Science student</b> at the <a target="_blank" href="https://www.uga.edu/"><b>University of Georgia</b></a>. I am a <b>full-stack developer</b> and a <b>passionate problem solver</b> who thrives on building innovative applications and exploring emerging technologies to deliver impactful solutions. <br>  
+    My interests lie at the intersection of <b>AI/ML and sound recognition</b>, where I have led projects utilizing deep learning to develop real-world applications, including audio-based recognition systems. I am eager to collaborate on challenging projects that push the boundaries of technology and make a meaningful difference.  
+  </em>
 </p>
+
  
 <br>
   
